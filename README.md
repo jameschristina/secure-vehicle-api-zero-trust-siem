@@ -18,7 +18,7 @@ The project evolves through four security maturity phases:
 3. Authorization + Least Privilege
 4. SIEM / UEBA Detection
 
-Across four phases, the project introduces authentication, authorization, least-privilege enforcement, and SIEM-style detections that identify identity misuse and behavioral anomalies. The goal is to illustrate how IAM and Zero Trust principles can be applied within a cyber-physical environment while showing how API activity can become meaningful security telemetry.
+Across four phases, the project introduces authentication, authorization, least-privilege enforcement, and SIEM-based detections that identify identity misuse and behavioral anomalies. The goal is to illustrate how IAM and Zero Trust principles can be applied within a cyber-physical environment while showing how API activity can become meaningful security telemetry.
 
 
 ---
