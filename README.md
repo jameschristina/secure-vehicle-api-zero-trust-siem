@@ -153,18 +153,9 @@ This project demonstrates practical cybersecurity concepts including:
 
 ## 📊 Visualization Layer
 
-### visualizations.py
+![Requests per Endpoint](screenshots/Requests%20per%20Endpoint.png)
 
-Original visualization implementation.
-
-### visualizations_v2.py
-
-Enhanced visualization implementation with PNG export support.
-
-Current visualizations include:
-
-* Requests per Endpoint
-* Requests per Vehicle ID
+![Requests per Vehicle ID](screenshots/Requests%20per%20Vehicle%20ID.png)
 
 ---
 
