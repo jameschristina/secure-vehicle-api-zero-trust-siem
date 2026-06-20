@@ -227,24 +227,6 @@ Through collaboration with contributor, Chukwuemeke Ikpeasonim, the original con
 
 The full Secure Vehicle API: Zero Trust Security Operations Platform can be found at: [https://github.com/ikpeasonim/secure-vehicle-api-zero-trust].
 
-## 👥 Project Contributors
-
-### Christina James
-
-Security Architecture | Identity & Access Management | Zero Trust Security
-
-LinkedIn: www.linkedin.com/in/christinanjames
-
-GitHub: www.github.com/jameschristina
-
-### Chukwuemeke Ikpeasonim
-
-Cybersecurity Engineering | Detection Engineering | SOC Operations | Zero Trust Security
-
-LinkedIn: www.linkedin.com/in/chukwuemeke-ikpeasonim
-
-GitHub: www.github.com/switice
-
 ---
 ## ⭐ Security Engineering Outcomes
 
